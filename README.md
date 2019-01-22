@@ -35,6 +35,14 @@ worker.postMessage();
 myWorker.onmessage = function(e) { ... }
 ```
 
+##### Alternatives
+
+```javascript
+self.addEventListener('message', function(e) {
+  postMessage(1/x); // Intentional error.
+};
+```
+
 #### Error Handling
 
 ```javascript
@@ -43,6 +51,14 @@ var myWorker = new Worker('worker.js');
 myWorker.onerror = function() {
   console.log('There is an error with your worker!');
 }
+```
+
+##### Alternatives
+
+```javascript
+  worker.addEventListener('error', function(e) {
+      ...
+    });
 ```
 
 #### Terminate Worker
