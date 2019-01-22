@@ -11,7 +11,7 @@
 
 **Hint:** JS itself, why? (_single threaded_)
 
-** Solution -**  Web Workers
+**Solution -**  Web Workers
 
 ## Web Workers
 
