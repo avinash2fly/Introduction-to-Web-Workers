@@ -143,9 +143,22 @@ self.addEventListener('message', function(e) {
 
 ### Issues with web Workers
 
-- Less performant, as it's copies data from main thread to worker thread
 
-solution : [Transferable Objects](https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast)
+<details><summary>Less performant</summary>
+<p>
+
+as it's copies data from main thread to worker thread
+
+</p>
+</details>
+
+<details><summary>solution</summary>
+<p>
+
+[Transferable Objects](https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast)
+
+</p>
+</details>
 
 
 ### Worker scope
