@@ -227,3 +227,4 @@ Performing Resource intensive computation on Client Side like
 - [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 - [Why Web Workers?](https://www.codementor.io/cedpoilly/why-web-workers-hy9e7pjjb)
 - [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/#toc-introduction-jsconcurrency)
+- [Since JavaScript is single-threaded, how are web workers in HTML5 doing multi-threading?](https://stackoverflow.com/questions/9708113/since-javascript-is-single-threaded-how-are-web-workers-in-html5-doing-multi-th)
