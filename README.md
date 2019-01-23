@@ -9,7 +9,15 @@
 
 ### What's the problem??
 
-**Hint:** JS itself, why? (_single threaded_)
+**Hint:** JS itself, why? 
+
+<details><summary>CLICK ME</summary>
+<p>
+
+**_single threaded_**
+
+</p>
+</details>
 
 **Solution -**  Web Workers
 
