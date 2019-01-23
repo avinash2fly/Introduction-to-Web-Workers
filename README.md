@@ -19,7 +19,13 @@
 </p>
 </details>
 
-**Solution -**  Web Workers
+<details><summary>Solution</summary>
+<p>
+
+**_Web Workers_**
+
+</p>
+</details>
 
 ## Web Workers
 
